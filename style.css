@@ -1,0 +1,85 @@
+body {
+  background-image: url("images/wallpaper.jpg");
+  background-size: 2000px 2000px;
+  font-family: sans-serif;
+}
+#divbody{
+  min-width: 850px;
+}
+p{
+  font-size: 20px;
+}
+img{
+  height: 450px;
+  width: 250px;
+  border-radius: 20px;
+}
+
+li{
+  font-size: 20px;
+}
+a:link{
+  color: gray;
+}
+a:visited{
+  color: darkslategray;
+}
+a:hover{
+  color: lightgray;
+}
+a:active{
+  color: powderblue;
+}
+span{
+  color: red;
+  font-weight: bold;
+}
+th{
+  text-align: left;
+}
+td.td1{
+  color: red;
+  text-align: left;
+}
+li.li1 a{
+  float: left;
+  padding: 0px 30px;
+  text-decoration: none;
+}
+h3{
+  text-decoration: underline;
+  text-align: left;
+  font-size: 25px;
+}
+table{
+  margin: 30px;
+  font-size: 20px;
+}
+#homepage{
+  font-size: 50px;
+  padding: 0px;
+  text-align: center;
+}
+#p10{
+  color: red;
+}
+#ul1{
+  list-style-type: none;
+  margin: 0px;
+  padding: 10px;
+  overflow: hidden;
+  background-color: black;
+}
+.div1{
+  float: left;
+  width: 33.33%
+}
+.div2{
+  text-align: center;
+  font-style: italic;
+  font-size: 30px;
+  clear: both;
+}
+.name{
+  text-align: center;
+}
